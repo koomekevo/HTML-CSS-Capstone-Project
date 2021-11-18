@@ -24,7 +24,7 @@ https://www.loom.com/share/564e9877a84c47ec92ae91a72f81faf9
 
 To get a local copy up and running follow these simple example steps.
 * Git clone to your computer.
-* Open index.html to view the portfolio.
+* Open index.html to view the project.
 
 ### Prerequisites
 
