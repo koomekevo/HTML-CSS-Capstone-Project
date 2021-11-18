@@ -16,6 +16,9 @@
 
 https://koomekevo.github.io/HTML-CSS-Capstone-Project/index.html
 
+## Presentation Link
+
+https://www.loom.com/share/564e9877a84c47ec92ae91a72f81faf9
 
 ## Getting Started
 
