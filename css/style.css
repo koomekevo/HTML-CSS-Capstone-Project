@@ -118,7 +118,6 @@ p {
   background-image: linear-gradient(rgba(122, 0, 0, 0.5), rgba(122, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80");
   background-repeat: repeat;
   -webkit-background-clip: text;
-  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
