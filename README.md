@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-Deploy to Github pages
+https://koomekevo.github.io/HTML-CSS-Capstone-Project/index.html
 
 
 ## Getting Started
